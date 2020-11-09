@@ -1,0 +1,60 @@
+ for dodi-ac
+embed.add_field(name="Assassin's Creed", value="https://dodi-repacks.site/index.php/2019/05/08/345-assassins-creed-directors-cut-edition-build-252091-multi5-dodi-repack-from-1-6-gb/")
+        embed.add_field(name="Assassin's Creed 2", value="https://dodi-repacks.site/index.php/2019/05/09/346-assassins-creed-2-deluxe-editionmulti12-dodi-repack-from-2-2-gb/")
+        embed.add_field(name="Assassin's Creed Revelations", value="https://dodi-repacks.site/index.php/2019/05/10/347-assassins-creed-revelations-gold-edition-all-dlcs-multi15-dodi-repack-from-3-2-gb/")
+        embed.add_field(name="Assassin's Creed Brotherhood", value="https://dodi-repacks.site/index.php/2019/05/09/346-assassins-creed-brotherhood-digital-deluxe-edition-multi14-dodi-repack-from-2-5-gb/ ")
+--------------------------------------------------------------------------------------------------
+for dodi-gta
+
+ embed.add_field(name="GTA Vice City", value="https://dodi-repacks.site/index.php/2020/06/03/638-grand-theft-auto-vice-city-10-year-anniversary-pc-edition-v1-0-multi5-dodi-repack/")
+        embed.add_field(name="GTA 3", value="https://dodi-repacks.site/index.php/2020/06/02/637-grand-theft-auto-iii-10-year-anniversary-hd-edition-v1-1-multi6-dodi-repack/")
+        embed.add_field(name="GTA San Andreas", value="https://dodi-repacks.site/index.php/2020/05/26/632-grand-theft-auto-san-andreas-v1-0-0-22-multi5-dodi-repack/")
+        embed.add_field(name="GTA 2", value="https://dodi-repacks.site/index.php/2020/06/04/639-grand-theft-auto-ii-v9-6-multi2-dodi-repack/")
+        embed.add_field(name="GTA 1", value="https://dodi-repacks.site/index.php/2020/06/04/640-grand-theft-auto-v1-0-0-1-multi4-dodi-repack/")
+--------------------------------------------------------------------------------------------------
+for dodi-farcry
+
+  embed.add_field(name="Far Cry 1", value="https://dodi-repacks.site/index.php/2019/06/14/382-far-cry-dodi-repack/")
+        embed.add_field(name="Far Cry 2 - Fortune's Edition", value='https://dodi-repacks.site/index.php/2019/01/09/242-far-cry-2-fortunes-edition-v-1-3-all-dlcs-multi5-from-2-gb-dodi-repack/')
+-------------------------------------------------------------------------------------------------
+for dodi-nfs
+ embed.add_field(name="Need For Speed Heat", value="https://dodi-repacks.site/index.php/2019/12/27/503-need-for-speed-heat-deluxe-edition-dodi-repack/")
+        embed.add_field(name="Need For Speed: The Run", value="https://dodi-repacks.site/index.php/2019/07/03/399-need-for-speed-the-run-limited-editiondlc-multi11-dodi-repack-from-4-2-gb/")
+        embed.add_field(name="Need For Speed Rivals", value="https://dodi-repacks.site/index.php/2019/07/03/398-need-for-speed-rivals-complete-edition-v1-4-0-0-dodi-repack/")
+        embed.add_field(name="Need For Speed Most Wanted 2005: Black Edition", value="https://dodi-repacks.site/index.php/2018/10/02/123-need-for-speed-most-wanted-black-edition-dodi-repack/")
+---------------------------------------------------------------------------------------------
+for dodi-splintercell
+embed.add_field(name="Tom Clancy's Splinter Cell Conviction", value="https://dodi-repacks.site/index.php/2020/04/11/264-tom-clancys-splinter-cell-conviction-deluxe-edition-v1-4-insurgency-pack-dodi-repack/")
+        embed.add_field(name="Tom Clancy's Splinter Cell Double Agent", value="https://dodi-repacks.site/index.php/2020/04/11/588-tom-clancys-splinter-cell-double-agent-v1-02a-multi5-dodi-repack/")    
+        embed.add_field(name="Tom Clancy's Splinter Cell Pandora Tomorrow", value="https://dodi-repacks.site/index.php/2020/04/10/587-tom-clancys-splinter-cell-pandora-tomorrow-v1-31-hd-texture-widescreenfix-dodi-repack/")
+        embed.add_field(name="Tom Clancy's Splinter Cell Chaos Theory", value="https://dodi-repacks.site/index.php/2020/04/07/584-tom-clancys-splinter-cell-chaos-theory-v1-05-157-multi5-dodi-repack/")
+        embed.add_field(name="Tom Clancy's Spinter Cell", value="https://dodi-repacks.site/index.php/2020/03/27/574-tom-clancys-splinter-cell-v1-3-dlc-hd-wide-fix-multi6-dodi-repack/")
+----------------------------------------------------------------------------------------------
+for cpg-amongus
+embed.add_field(name="Among Us(CPG Repacks)", value="https://cpgrepacks.site/viewtopic.php?t=154&p=337#p337")
+----------------------------------------------------------------------------------
+for dodi-star wars
+ embed.add_field(name="Star Wars: Battlefront 2(Classic)", value="https://dodi-repacks.site/index.php/2020/07/29/709-star-wars-battlefront-2-classic-2005-multi5-dodi-repack/")
+        embed.add_field(name="Star Wars: Battlefront(Classic)", value="https://dodi-repacks.site/index.php/2020/07/29/708-star-wars-battlefront-classic-2004-dodi-repack/")
+        embed.add_field(name="Star Wars: Republic Commando", value="https://dodi-repacks.site/index.php/2020/07/29/star-wars-republic-commando-dodi-repack/")
+        embed.add_field(name="Star Wars: Knights Of The Old Republic", value="https://dodi-repacks.site/index.php/2020/07/25/star-wars-knights-of-the-old-republic-collection-dodi-repacks/")
+        embed.add_field(name="Star Wars: Jedi Knight II", value="https://dodi-repacks.site/index.php/2020/07/14/685-star-wars-jedi-knight-ii-jedi-outcast-dodi-repack/")
+        embed.add_field(name="Star Wars: Jedi Knight: Dark Forces II", value="https://dodi-repacks.site/index.php/2020/07/14/682-star-wars-jedi-knight-dark-forces-ii-dodi-repack/")
+        embed.add_field(name="Star Wars: The Force Unleashed", value="https://dodi-repacks.site/index.php/2020/07/07/star-wars-the-force-unleashed-collection-gog-multi7-dodi-repacks/")
+        embed.add_field(name="Star Wars: The Force Unleashed II", value="https://dodi-repacks.site/index.php/2020/07/06/673-star-wars-the-force-unleashed-ii-gog-multi7-from-3-5-gb-dodi-repack/")
+---------------------------------------------------------------------------------------
+for dodi-marvel
+  embed.add_field(name="Marvel's Avengers", value="https://dodi-repacks.site/index.php/2020/10/19/814-marvels-avengers-deluxe-edition-v1-3-3-build-13-38-dlcs-ultra-texture-pack-multi15-from-60-gb-fast-install-dodi-repack/")
+------------------------------------------------------------------------------------------
+for dodi-ghostrecon
+embed.add_field(name="Tom Clancy's Ghost Recon Future Soldier ", value="https://dodi-repacks.site/index.php/2019/04/20/333-tom-clancys-ghost-recon-future-soldier-complete-edition-v1-8-all-dlcs-multi12-dodi-repack-from-7-9-gb/")
+-----------------------------------------------------------------------------------
+for dodi-spiderman
+ embed.add_field(name="The Amazing Spiderman ", value="https://dodi-repacks.site/index.php/2020/04/29/611-the-amazing-spider-man-update1-all-dlcs-fixes-multi6-dodi-repack/")
+        embed.add_field(name="The Amazing Spiderman 2", value="https://dodi-repacks.site/index.php/2020/04/29/612-the-amazing-spider-man-2-bundle-all-dlcs-multi6-dodi-repack/")
+--------------------------------------------------------------------------------
+for fitgirl-fallout
+  embed.add_field(name="Fallout 4", value="https://fitgirl-repacks.site/fallout-4/" )
+----------------------------------------------------------------------------------
+
+
