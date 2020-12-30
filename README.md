@@ -10,3 +10,7 @@ Packages used: discord.py
 
 Bot Invite Link:  https://discord.com/oauth2/authorize?client_id=749139984321347674&scope=bot
 Support Server: https://discord.gg/szcufYZsQd
+
+Prerequisites:
+Python 3.8
+Discord.py v1.5.1
